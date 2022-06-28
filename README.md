@@ -2,7 +2,7 @@
 <h1 align="center">2D-unit-vector-from-a-given-angle</h1>
 <br>
 
-#### <p align="center">Output the X and Y coordinates of a vector and display based on a given angle using Excel shapes and VBA!</p>
+#### <p align="center">Output the X and Y coordinates of a vector and display based on a given degree angle using Excel shapes and VBA!</p>
 
 <br>
 
